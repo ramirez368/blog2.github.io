@@ -229,6 +229,7 @@ $ sudo systemctl restart apache2
 Apache should now be serving your domain name. You can test this by navigating to 
 ### http://your_domain
 where you should see something like this:
+ ![Tag](https://assets.digitalocean.com/articles/apache_virtual_hosts_ubuntu/vhost_your_domain.png)
 
 ### Step 6 – Getting Familiar with Important Apache Files and Directories
 Now that you know how to manage the Apache service itself, you should take a few minutes to familiarize yourself with a few important directories and files.
