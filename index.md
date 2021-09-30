@@ -35,7 +35,7 @@ During installation, Apache registers itself with UFW to provide a few applicati
 
 List the ufw application profiles by typing:
 ```
-sudo ufw app list
+$ sudo ufw app list
 ```
 You will receive a list of the application profiles:
 ```
@@ -224,7 +224,7 @@ Restart Apache to implement your changes:
 ```
 $ sudo systemctl restart apache2
 ``` 
-Apache should now be serving your domain name. You can test this by navigating to http://your_domain, where you should see something like this:
+Apache should now be serving your domain name. You can test this by navigating to ```http://your_domain, where you should see something like this:```
 
 ### Step 6 – Getting Familiar with Important Apache Files and Directories
 Now that you know how to manage the Apache service itself, you should take a few minutes to familiarize yourself with a few important directories and files.
