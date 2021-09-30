@@ -10,7 +10,7 @@ layout: default
 
 [//]: #  There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
 
-# Installation of the Apache Server and Prerequistis?
+# Installation of the Apache Server
 
 # Prerequisites
 Before you begin this guide, you should have a regular, non-root user with sudo privileges configured on your server. Additionally, you will need to enable a basic firewall to block non-essential ports. You can learn how to configure a regular user account and set up a firewall for your server by following our Initial server setup guide for Ubuntu 20.04.
@@ -21,14 +21,15 @@ Step 1 — Installing Apache
 Apache is available within Ubuntu’s default software repositories, making it possible to install it using conventional package management tools.
 
 Let’s begin by updating the local package index to reflect the latest upstream changes:
+
 ```
 sudo apt update
 
 ```
 
-### Lamp Stack Diagram:
+### :
 
-![Lamp Stack Diagram](https://res.cloudinary.com/lwgatsby/f_auto,c_scale,w_343/www/uploads/2018/02/kb-lamp-stack-1.jpg)
+![Apache Server Architecture](https://lh3.googleusercontent.com/proxy/IjS__sHCIWwHCTxDLxauQqC7b8uFtDbHNuBzay09VWn1t-5_xZtfQqNWYvzTgwG8M5W0NZqPqn5vWOdfjVn7uyXanAMbXv8_wm8hnfdprO9WSdc1OvVHt0IBlxZFxYd4fzhWeqxk0YuP0fHxLSXDosyxehhF8fQxp4krpjkxog)
 
 
 ### so now what is a Web stack?
