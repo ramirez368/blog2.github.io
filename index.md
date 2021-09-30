@@ -17,6 +17,8 @@ Before you begin this guide, you should have a regular, non-root user with sudo 
 
 When you have an account available, log in as your non-root user to begin.
 
+![Apache Server Architecture](https://lh3.googleusercontent.com/proxy/IjS__sHCIWwHCTxDLxauQqC7b8uFtDbHNuBzay09VWn1t-5_xZtfQqNWYvzTgwG8M5W0NZqPqn5vWOdfjVn7uyXanAMbXv8_wm8hnfdprO9WSdc1OvVHt0IBlxZFxYd4fzhWeqxk0YuP0fHxLSXDosyxehhF8fQxp4krpjkxog)
+
 Step 1 — Installing Apache
 Apache is available within Ubuntu’s default software repositories, making it possible to install it using conventional package management tools.
 
@@ -26,11 +28,6 @@ Let’s begin by updating the local package index to reflect the latest upstream
 sudo apt update
 
 ```
-
-### :
-
-![Apache Server Architecture](https://lh3.googleusercontent.com/proxy/IjS__sHCIWwHCTxDLxauQqC7b8uFtDbHNuBzay09VWn1t-5_xZtfQqNWYvzTgwG8M5W0NZqPqn5vWOdfjVn7uyXanAMbXv8_wm8hnfdprO9WSdc1OvVHt0IBlxZFxYd4fzhWeqxk0YuP0fHxLSXDosyxehhF8fQxp4krpjkxog)
-
 
 ### so now what is a Web stack?
 
@@ -47,7 +44,7 @@ First thing we're going to do here is we're going to update our pachages in Ubun
 
 ```js
 **Linux commands For Step 1**
-sudo apt-get update 
+<span style="color:red">some **This is Red Bold.** text</span> sudo apt-get update 
 sudo apt-get install apache2 
 
 ```
