@@ -118,7 +118,9 @@ You should see the default Ubuntu 20.04 Apache web page:
 
 
 This page indicates that Apache is working correctly. It also includes some basic information about important Apache files and directory locations.
-![test] https://assets.digitalocean.com/articles/how-to-install-lamp-ubuntu-16/small_apache_default.png
+
+![Apache Web Page ](https://assets.digitalocean.com/articles/how-to-install-lamp-ubuntu-16/small_apache_default.png)
+
 ### Step 4 — Managing the Apache Process
 Now that you have your web server up and running, let’s go over some basic management commands using systemctl.
 
