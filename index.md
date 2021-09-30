@@ -20,7 +20,7 @@ When you have an account available, log in as your non-root user to begin.
 ## Apache Architecture Diagram:
 ![Apache Server Architecture](https://lh3.googleusercontent.com/proxy/IjS__sHCIWwHCTxDLxauQqC7b8uFtDbHNuBzay09VWn1t-5_xZtfQqNWYvzTgwG8M5W0NZqPqn5vWOdfjVn7uyXanAMbXv8_wm8hnfdprO9WSdc1OvVHt0IBlxZFxYd4fzhWeqxk0YuP0fHxLSXDosyxehhF8fQxp4krpjkxog)
 
-###Step 1 — Installing Apache
+### Step 1 — Installing Apache
 Apache is available within Ubuntu’s default software repositories, making it possible to install it using conventional package management tools.
 
 Let’s begin by updating the local package index to reflect the latest upstream changes:
