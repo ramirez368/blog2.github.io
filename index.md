@@ -26,7 +26,7 @@ Apache is available within Ubuntu’s default software repositories, making it p
 Let’s begin by updating the local package index to reflect the latest upstream changes:
 
 ```
-sudo apt update
+*sudo apt* update
 
 ```
 
