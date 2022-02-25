@@ -76,7 +76,7 @@ This explains why you maybe getting bounce back emails sometimes. The reason for
 
 
 ```
-Thank you readers, and wait for Blog 3 next week.
+Thank you readers, and wait for our next week.
 For Contact e-mail me at ramirez368@hotmail.com
 
 ```
