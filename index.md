@@ -44,11 +44,11 @@ The SMTP stands for Simple Mail Transfer Protocol. Email is sent using this prot
 
  
 
-How does email work?
+
 
 The diagram down below describes the path that email takes from your computer to the intended recipient . This shows the path of the email from sending to receiving ends. There are also many logical machines in the email delivery process. Please have a look at the diagram before proceeding
 
-[How Emails Works] (https://www.interserver.net/tips/wp-content/uploads/2016/08/Email-Working.png)
+[![How does email work?](https://www.interserver.net/tips/wp-content/uploads/2016/08/Email-Working.png)
 ## 
 
 ```
