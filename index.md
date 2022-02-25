@@ -57,19 +57,7 @@ The diagram down below describes the path that email takes from your computer to
 
  ```
 
-    
-
-
-
-
-
-T
-### Step 4 — Managing the Apache Process
-Now that you have your web server up and running, let’s go over some basic management commands using systemctl.
-
-
-
-
+   
 ### 
 
 
